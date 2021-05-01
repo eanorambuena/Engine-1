@@ -52,3 +52,4 @@ class Line():
       i=int(round(self.paramX(t)))
       j=int(round(self.paramY(t)))
       screen.array[j-1][i-1]=1
+      
